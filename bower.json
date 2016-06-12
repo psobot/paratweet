@@ -1,0 +1,21 @@
+{
+  "name": "20160612-javascript",
+  "description": "Markov Chain Fun",
+  "main": "twitter.js",
+  "authors": [
+    "Peter Sobot <psobot@gmail.com> (http://petersobot.com/)"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
